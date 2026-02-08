@@ -1,0 +1,7 @@
+Prometheus → http://<server-ip>:9090
+
+Node Exporter → http://<node-ip>:9100/metrics
+
+Grafana → http://<server-ip>:3000
+
+Default login: admin / admin
